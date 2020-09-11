@@ -1,3 +1,4 @@
 Hi,
 My name is Miles Ryan-Cummings and I am currently learnign how to create and
 use repositories on Git.
+I am now going to add a fourth line and check if it commits.
